@@ -1,0 +1,6 @@
+/local_storage
+/test_documents
+/node_modules
+.DS_Store
+.env
+eng.traineddata
